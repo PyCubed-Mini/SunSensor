@@ -10,3 +10,6 @@
 [submodule "SunSensor/SunSensorMux"]
 	path = SunSensor/SunSensorMux
 	url = https://github.com/PyCubed-Mini/kicad-libs.git
+[submodule "SunSensor/kicad-libs"]
+	path = SunSensor/kicad-libs
+	url = https://github.com/PyCubed-Mini/kicad-libs.git
