@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SunSensor")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/SunSensor.kicad_sym")(options "")(descr ""))
+)

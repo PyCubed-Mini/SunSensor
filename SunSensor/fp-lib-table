@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sunsensor")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/sunsensor.pretty")(options "")(descr ""))
+)
