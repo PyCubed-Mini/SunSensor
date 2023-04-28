@@ -1,15 +1,6 @@
-[submodule "kicad-libs"]
-	path = kicad-libs
-	url = https://github.com/PyCubed-Mini/kicad-libs.git
 [submodule "SunSensorMux/kicad-libs"]
 	path = SunSensorMux/kicad-libs
-	url = https://github.com/PyCubed-Mini/kicad-libs.git
-[submodule "SunSensor/SunSensor"]
-	path = SunSensor/SunSensor
-	url = https://github.com/PyCubed-Mini/kicad-libs.git
-[submodule "SunSensor/SunSensorMux"]
-	path = SunSensor/SunSensorMux
-	url = https://github.com/PyCubed-Mini/kicad-libs.git
+	url = git@github.com:PyCubed-Mini/kicad-libs.git
 [submodule "SunSensor/kicad-libs"]
 	path = SunSensor/kicad-libs
-	url = https://github.com/PyCubed-Mini/kicad-libs.git
+	url = git@github.com:PyCubed-Mini/kicad-libs.git
